@@ -1,0 +1,57 @@
+.container{
+    margin-bottom: 100px;
+}
+.section{
+    padding-bottom: 100px;
+}
+footer{
+    text-align: center;
+}
+p{
+    color: dimgray;
+}
+a{
+    /* text-decoration: none; */
+    color: orange;
+}
+a:hover{
+    text-decoration: none;
+}
+#categories h1{
+    padding-bottom: 8px;
+    border-bottom: 5px solid orange;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+.navbar-nav{
+    float: right;
+}
+
+.logo{
+    height: 70px;
+}
+.carousel-item{
+    padding-left: 60px;
+}
+
+.card-body, .card-footer{
+    margin: auto;
+    text-align: center;
+}
+.card, .card-footer{
+    border: none;
+    background-color: white;
+}
+.card{
+    box-shadow: -10px 5px 5px lightcyan;
+    border: 1px solid lightcyan;
+    border-radius: 10px;
+    
+}
+.img{
+    box-shadow: -10px 5px 5px rgb(255, 249, 224);
+    border-radius: 10px;
+    border: 1px solid lightcyan;
+    width: 150px;
+    padding: 10px;  
+}
